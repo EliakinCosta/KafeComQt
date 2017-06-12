@@ -1,3 +1,3 @@
-# KafeComQtJunho2017
+# Kafe Com Qt
 
-Slides Kafé com Qt - Junho/2017
+Slides Kafé com Qt
